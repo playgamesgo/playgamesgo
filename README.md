@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/uc_s1zis_uls-t3m3vuvcskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_s1zis_uls-t3m3vuvcskg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_S1Zis_uLS-t3m3vUVcSKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_s1zis_uls-t3m3vuvcskg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/playgamesgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="playgamesgo" height="30" width="40" /></a>
 <a href="https://discord.gg/FJZk5QAHtU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FJZk5QAHtU" height="30" width="40" /></a>
 </p>
