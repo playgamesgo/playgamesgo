@@ -14,6 +14,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=playgamesgo&" alt="playgamesgo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=playgamesgo&show_icons=true&locale=en" alt="playgamesgo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=playgamesgo&show_icons=true&locale=en" alt="playgamesgo" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=playgamesgo&show_icons=true&locale=en&layout=compact" alt="playgamesgo" /></p>
